@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593405661340",
+    "project_id": "shopapp-6c4dd",
+    "storage_bucket": "shopapp-6c4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593405661340:android:7dd61f14ca052114181d59",
+        "android_client_info": {
+          "package_name": "mnxk.mcommerce.shopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJxhQcto915GAQD24_ASOMpSq88o9MoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
